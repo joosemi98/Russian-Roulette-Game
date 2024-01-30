@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\DAM\Programación\Programas de inicio\Asignatura Programación\AP10\AC10\bin\Debug\AC10.exe.config
+C:\Users\Usuario\Desktop\DAM\Programación\Programas de inicio\Asignatura Programación\AP10\AC10\bin\Debug\AC10.exe
+C:\Users\Usuario\Desktop\DAM\Programación\Programas de inicio\Asignatura Programación\AP10\AC10\bin\Debug\AC10.pdb
+C:\Users\Usuario\Desktop\DAM\Programación\Programas de inicio\Asignatura Programación\AP10\AC10\obj\Debug\AC10.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\DAM\Programación\Programas de inicio\Asignatura Programación\AP10\AC10\obj\Debug\AC10.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\DAM\Programación\Programas de inicio\Asignatura Programación\AP10\AC10\obj\Debug\AC10.exe
+C:\Users\Usuario\Desktop\DAM\Programación\Programas de inicio\Asignatura Programación\AP10\AC10\obj\Debug\AC10.pdb
